@@ -16,6 +16,7 @@
 // ==/UserScript==
 
 // THIS USERSCRIPT IS NO LONGER AVAILABLE ON GREASYFORK - I REUPLOADED IT HERE AND REDIRECTED THE RAW URLS TO THIS GITHUB REPO. THE ORIGINAL AUTHOR IS CREDITED IN THE METADATA.
+// ORIGINAL LINK: https://greasyfork.org/en/scripts/569920-imdb-watch-download-subtitles/versions
 
 (function () {
   'use strict';
