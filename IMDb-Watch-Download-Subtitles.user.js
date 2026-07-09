@@ -1,16 +1,22 @@
 // ==UserScript==
 // @name         IMDb Watch, Download & Subtitles
 // @namespace    https://www.imdb.com/
-// @version      3.0.original
+// @version      3.0.fork
 // @description  Watch, Download and Subtitle buttons on IMDb title pages.
+// @author       https://greasyfork.org/en/users/1083784-mrrobot, Myst1cX (fork)
 // @license      MIT
 // @match        *://*.imdb.com/title/*
 // @grant        GM_xmlhttpRequest
 // @connect      www.themoviedb.org
 // @connect      sub.wyzie.io
-// @downloadURL https://update.greasyfork.org/scripts/569920/IMDb%20Watch%2C%20Download%20%20Subtitles.user.js
-// @updateURL https://update.greasyfork.org/scripts/569920/IMDb%20Watch%2C%20Download%20%20Subtitles.meta.js
+// @homepageURL  https://github.com/Myst1cX/IMDb-Watch-Download-Subtitles
+// @supportURL   https://github.com/Myst1cX/IMDb-Watch-Download-Subtitles/issues
+// @updateURL    https://raw.githubusercontent.com/Myst1cX/IMDb-Watch-Download-Subtitles/main/IMDb-Watch-Download-Subtitles.user.js
+// @downloadURL  https://raw.githubusercontent.com/Myst1cX/IMDb-Watch-Download-Subtitles/main/IMDb-Watch-Download-Subtitles.user.js
 // ==/UserScript==
+
+// THIS USERSCRIPT IS NO LONGER AVAILABLE ON GREASYFORK - I REUPLOADED IT HERE AND REDIRECTED THE RAW URLS TO THIS GITHUB REPO. THE ORIGINAL AUTHOR IS CREDITED IN THE METADATA.
+
 (function () {
   'use strict';
   function getImdbId() {
